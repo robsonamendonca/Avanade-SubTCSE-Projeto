@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Avanade.SubTCSE.Projeto.Data
+namespace Avanade.SubTCSE.Projeto.Infra.CrosCutting
 {
     public class Class1
     {

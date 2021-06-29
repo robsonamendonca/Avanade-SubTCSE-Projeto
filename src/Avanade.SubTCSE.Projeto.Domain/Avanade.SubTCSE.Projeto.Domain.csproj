@@ -1,12 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Aggregates\EmployeeRole\Interfaces\Repository\" />
-    <Folder Include="Aggregates\EmployeeRole\Validators\" />
+    <Folder Include="Aggregates\Employee\Interfaces\Repositories\" />
+    <Folder Include="Aggregates\Employee\ValueObject\" />
+    <Folder Include="Aggregates\Employee\Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.2.3" />
   </ItemGroup>
 
 </Project>

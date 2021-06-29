@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassLibrary1
+namespace Avanade.SubTCSE.Projeto.Infra.Data
 {
     public class Class1
     {
