@@ -1,7 +1,7 @@
 # Avanade-SubTCSE-Projeto
 
-Projeto criado durante semana Avanade Full-Stack Cloud
+Projeto criado durante o treinamento full stack
 
-## Dia 1
+## dia 1
 
 > Criação do projeto
